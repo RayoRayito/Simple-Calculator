@@ -1,2 +1,2 @@
-calc = input("Ingresa la operación a realizar: ")
+calc = input("Ingresar la operación a realizar: ")
 print(f"Resultado = {eval(calc)}")
